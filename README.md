@@ -1,7 +1,7 @@
 VISA
 ==========
 
-VISA is a new dataset that consists of 40k Japanese-English parallel sentence pairs and corresponding video clips with the following key features: 
+VISA is a dataset that consists of 40k Japanese-English parallel sentence pairs and corresponding video clips with the following key features: 
   - The parallel sentences are subtitles from movies and TV episodes
   - The source subtitles are ambiguous, which means they have multiple possible translations with different meanings
   - We divide the dataset into Polysemy and Omission according to the cause of ambiguity
