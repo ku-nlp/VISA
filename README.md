@@ -1,10 +1,10 @@
 VISA
 ==========
 
-VISA is a dataset that consists of 40k Japanese-English parallel sentence pairs and corresponding video clips with the following key features: 
-  - The parallel sentences are subtitles from movies and TV episodes
-  - The source subtitles are ambiguous, which means they have multiple possible translations with different meanings
-  - We divide the dataset into Polysemy and Omission according to the cause of ambiguity
+__VISA__ is a dataset that consists of 40k Japanese-English parallel sentence pairs and corresponding video clips with the following key features: 
+  - The parallel sentences are __subtitles__ from movies and TV episodes
+  - The source subtitles are __ambiguous__, which means they have multiple possible translations with different meanings
+  - We divide the dataset into __Polysemy__ and __Omission__ according to the cause of ambiguity
 
 Splits:
 -------------------
@@ -46,3 +46,11 @@ If you find this dataset helpful, please cite our publication "VISA: An Ambiguou
 &emsp;&emsp;      primaryClass="cs.CL",  
 &emsp;&emsp;      url = "https://arxiv.org/abs/2201.08054"  
 }
+
+Contact:
+-------------------
+If you have any questions about this dataset, please send email to us.
+
+License:
+-------------------
+[GNU General Public License v3.0](LICENSE)
