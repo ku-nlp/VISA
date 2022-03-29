@@ -6,6 +6,20 @@ __VISA__ is a dataset that consists of 40k Japanese-English parallel sentence pa
   - The source subtitles are __ambiguous__, which means they have multiple possible translations with different meanings
   - We divide the dataset into __Polysemy__ and __Omission__ according to the cause of ambiguity
 
+Examples:
+-------------------
+Polysemy:  
+  
+放せ！ --> Let me go!
+
+![let_me_go](https://user-images.githubusercontent.com/38623473/160537899-a5085b99-d3f4-49aa-a5c2-df33c984c2f3.gif)
+
+Omission:  
+  
+銃を持ってる。 --> I have a gun.
+
+![I_carry_a_gun](https://user-images.githubusercontent.com/38623473/160538132-6e0ab417-41f7-45ca-aef5-c8a540496a69.gif)
+
 Splits:
 -------------------
 
