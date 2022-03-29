@@ -30,8 +30,8 @@ Note:
 -------------------
 Please, note that by downloading the dataset, you agree to the following conditions:
   - Do not re-distribute the dataset without our permission.
-  - We do not officially distribute the video clips. Do not disclose this anywhere, even in your paper.
   - The dataset can only be used for research purposes. Any other use is explicitly prohibited.
+<!---  - We do not officially distribute the video clips. Do not disclose this anywhere, even in your paper.--->
 
 
 Citing:
