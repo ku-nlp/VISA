@@ -49,7 +49,7 @@ If you find this dataset helpful, please cite our publication "VISA: An Ambiguou
 
 Contact:
 -------------------
-If you have any questions about this dataset, please send email to us.
+If you have any questions about this dataset, please contact liyh@nlp.ist.i.kyoto-u.ac.jp.
 
 License:
 -------------------
