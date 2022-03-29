@@ -51,6 +51,7 @@ Please, note that by downloading the dataset, you agree to the following conditi
 Citing:
 -------------------
 If you find this dataset helpful, please cite our publication "VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation":  
+  
 @misc{li2022visa,  
 &emsp;&emsp;      title="VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation",  
 &emsp;&emsp;      author="Yihang Li and Shuichiro Shimizu and Weiqi Gu and Chenhui Chu and Sadao Kurohashi",  
