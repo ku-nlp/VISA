@@ -49,9 +49,9 @@ Please, note that by downloading the dataset, you agree to the following conditi
 
 Download Features:
 -------------------
-If you are interested in the video features of VISA, you can download them from the folling links.
-The I3D Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_i3d.zip
-The RCNN Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_rcnn.zip
+If you are interested in the video features of VISA, you can download them from the following links:
+  - The I3D Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_i3d.zip
+  - The RCNN Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_rcnn.zip
 
 Citing:
 -------------------
