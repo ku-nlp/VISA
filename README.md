@@ -47,6 +47,11 @@ Please, note that by downloading the dataset, you agree to the following conditi
   - The dataset can only be used for research purposes. Any other use is explicitly prohibited.
 <!---  - We do not officially distribute the video clips. Do not disclose this anywhere, even in your paper.--->
 
+Download Features:
+-------------------
+If you are interested in the video features of VISA, you can download them from the folling links.
+The I3D Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_i3d.zip
+The RCNN Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_rcnn.zip
 
 Citing:
 -------------------
