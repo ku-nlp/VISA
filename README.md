@@ -35,10 +35,12 @@ You can read json files to find the mapping from videos to parallel subtitle pai
 
 Json Files Structure:
 -------------------  
+```
 video_file_name: {  
-&emsp;&emsp;      { "ja": Japanese_subtitle },  
-&emsp;&emsp;      { "en": English_subtitle }  
+    { "ja": Japanese_subtitle },  
+    { "en": English_subtitle }  
 }  
+```
 
 Note:
 -------------------
@@ -47,25 +49,33 @@ Please, note that by downloading the dataset, you agree to the following conditi
   - The dataset can only be used for research purposes. Any other use is explicitly prohibited.
 <!---  - We do not officially distribute the video clips. Do not disclose this anywhere, even in your paper.--->
 
-Download Features:
+Downloadable Features:
 -------------------
 If you are interested in the video features of VISA, you can download them from the following links:
   - The I3D Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_i3d.zip
   - The RCNN Features of VISA: http://lotus.kuee.kyoto-u.ac.jp/~yihang/dataset/VISA_rcnn.zip
 
-Citing:
+Citation:
 -------------------
-If you find this dataset helpful, please cite our publication "VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation":  
-  
-@misc{li2022visa,  
-&emsp;&emsp;      title="VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation",  
-&emsp;&emsp;      author="Yihang Li and Shuichiro Shimizu and Weiqi Gu and Chenhui Chu and Sadao Kurohashi",  
-&emsp;&emsp;      year="2022",  
-&emsp;&emsp;      eprint="2201.08054",  
-&emsp;&emsp;      archivePrefix="arXiv",  
-&emsp;&emsp;      primaryClass="cs.CL",  
-&emsp;&emsp;      url = "https://arxiv.org/abs/2201.08054"  
+If you find this dataset helpful, please cite our publication "[VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation](https://aclanthology.org/2022.lrec-1.725/)":  
+
+```
+@inproceedings{li-etal-2022-visa,
+    title = "{VISA}: An Ambiguous Subtitles Dataset for Visual Scene-aware Machine Translation",
+    author = "Li, Yihang  and
+      Shimizu, Shuichiro  and
+      Gu, Weiqi  and
+      Chu, Chenhui  and
+      Kurohashi, Sadao",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.725",
+    pages = "6735--6743",
 }
+```
 
 Contact:
 -------------------
